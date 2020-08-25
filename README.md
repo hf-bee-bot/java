@@ -1,5 +1,5 @@
 Hello World
 
-snafu
-fubar
-foo
+* snafu
+* fubar
+* foo
